@@ -1,3 +1,6 @@
+# Architecture
+![Gitops](gitops.png)
+
 # Terraform code 
 
 ## Maintain vpc & eks with terraform for vprofile project
